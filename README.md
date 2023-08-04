@@ -1,5 +1,5 @@
-"# Retail-Banking" 
-                      Retail Management
+# Retail-Banking
+
 1)We have created a flask web application on Bank Retail Management which aims to work for a new AccountExecutive as well as a general bank employee which is the cashier in carrying out various operations and functionalities which the user or the cashier aims to get respectively.
  
 2)For The Account Executive Of A Bank:
